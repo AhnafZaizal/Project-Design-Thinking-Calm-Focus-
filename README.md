@@ -7,7 +7,10 @@ Additionally, this experience has deepened my appreciation of the role that data
 
 Contents:
 
-Project Report: [Project Report](DESIGN THINKING (Calm Focus) (Group 4) (2).pdf)
+Project Report: [Project Report](https://github.com/AhnafZaizal/Project-Design-Thinking-Calm-Focus-/blob/main/DESIGN%20THINKING%20(Calm%20Focus)%20(Group%204)%20%20(2).pdf)
+
+
+Project Video: [Project Video](https://youtu.be/iEVlf4avv_I)
 
 
 
